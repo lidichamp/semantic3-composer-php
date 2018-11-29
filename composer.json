@@ -1,0 +1,24 @@
+{
+    "name": "lidichamp/semantics3",
+    "description": "A package for semantic3 APIs.",
+    "keywords": ["semantics3", "composer", "package","products","api","upc","barcode","product_crawl"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lydia Edia",
+            "email": "lidichamp@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=7.1"
+    },
+    "require-dev": {
+		"phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Semantics3\\": "src/"
+        }
+    }
+}
