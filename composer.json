@@ -1,5 +1,5 @@
 {
-    "name": "elogistical/semantics3",
+    "name": "lidichamp/semantics3",
     "description": "A package for semantic3 APIs.",
     "keywords": ["semantics3", "composer", "package","products","api","upc","barcode","product_crawl"],
     "license": "MIT",
