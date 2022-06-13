@@ -1,7 +1,7 @@
 <?php
 namespace Semantics3\Semantics3;
 use Semantics3\Semantics3\Semantics3_ParameterError;
-class Semantics3_Products extends Api_Connector {
+class Products extends Api_Connector {
 
   private $_query_result = array();
   private $_data_query = array();
